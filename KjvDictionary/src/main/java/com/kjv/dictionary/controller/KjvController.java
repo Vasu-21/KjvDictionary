@@ -13,7 +13,6 @@ import com.kjv.dictionary.service.KjvService;
 @Controller
 public class KjvController 
 {
-	
     @Autowired
     private KjvService kjvService;
 
