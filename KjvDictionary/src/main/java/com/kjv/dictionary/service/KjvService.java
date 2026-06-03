@@ -1342,6 +1342,274 @@ public class KjvService
 															        "Leviticus 27:30 - And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the LORD'S: it is holy unto the LORD.",
 															        "Nehemiah 13:12 - Then brought all Judah the tithe of the corn and the new wine and the oil unto the treasuries."
 															    )));
+															
+															
+															
+															
+															
+															wordMap.put("Tittle", new KjvEntity("Tittle", "the smallest markings on the Hebrew letters; includes vowel points",
+																    List.of(
+																        "Matthew 5:18 - For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.",
+																        "Luke 16:17 - And it is easier for heaven and earth to pass, than one tittle of the law to fail."
+																    )));
+
+																wordMap.put("Tow", new KjvEntity("Tow", "the fibers of flax used for spinning yarn",
+																    List.of(
+																        "Judges 16:9 - Now there were men lying in wait, abiding with her in the chamber. And she said unto him, The Philistines be upon thee, Samson. And he brake the withs, as a thread of tow is broken when it toucheth the fire. So his strength was not known.",
+																        "Isaiah 1:31 - And the strong shall be as tow, and the maker of it as a spark, and they shall both burn together, and none shall quench them.",
+																		"Judges 16:9 - Now there were men lying in wait, abiding with her in the chamber. And she said unto him, The Philistines be upon thee, Samson. And he brake the withs, as a thread of tow is broken when it toucheth the fire. So his strength was not known."
+																    )));
+
+																wordMap.put("Travail", new KjvEntity("Travail", "suffering",
+																    List.of(
+																        "Isaiah 53:11 - He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.",
+																        "Psalms 48:6 - Fear took hold upon them there, and pain, as of a woman in travail.",
+																        "John 16:21 - A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world."
+																    )));
+
+																wordMap.put("Travailed", new KjvEntity("Travailed", "suffering",
+																    List.of(
+																        "Genesis 35:16 - And they journeyed from Bethel; and there was but a little way to come to Ephrath: and Rachel travailed, and she had hard labour.",
+																        "Genesis 38:28 - And it came to pass, when she travailed, that the one put out his hand: and the midwife took and bound upon his hand a scarlet thread, saying, This came out first.",
+																		"Isaiah 66:7 - Before she travailed, she brought forth; before her pain came, she was delivered of a man child."
+																    )));
+
+																wordMap.put("Travaileth", new KjvEntity("Travaileth", "suffering",
+																    List.of(
+																        "Psalms 7:14 - Behold, he travaileth with iniquity, and hath conceived mischief, and brought forth falsehood.",
+																        "Romans 8:22 - For we know that the whole creation groaneth and travaileth in pain together until now.",
+																		"Job 15:20 - The wicked man travaileth with pain all his days, and the number of years is hidden to the oppressor."
+																    )));
+
+																wordMap.put("Travailing", new KjvEntity("Travailing", "suffering",
+																    List.of(
+																        "Revelation 12:2 - And she being with child cried, travailing in birth, and pained to be delivered.",
+																		"Isaiah 42:14 - I have long time holden my peace; I have been still, and refrained myself: now will I cry like a travailing woman; I will destroy and devour at once.",
+																		"Hosea 13:13 - The sorrows of a travailing woman shall come upon him: he is an unwise son; for he should not stay long in the place of the breaking forth of children."
+																    )));
+
+																wordMap.put("Travailest", new KjvEntity("Travailest", "suffering",
+																    List.of(
+																        "Galatians 4:27 - For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband."
+																    )));
+
+																wordMap.put("Trespass", new KjvEntity("Trespass", "sin, the breaking of a law",
+																    List.of(
+																        "Leviticus 6:6 - And he shall bring his trespass offering unto the LORD, a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest:",
+																        "Numbers 5:8 - But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the LORD, even to the priest; beside the ram of the atonement, whereby an atonement shall be made for him.",
+																        "Genesis 50:17 - So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him."
+																    )));
+
+																wordMap.put("Turtle", new KjvEntity("Turtle", "turtle-dove",
+																    List.of(
+																        "Song of Solomon 2:12 - The flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle is heard in our land;",
+																        "Jeremiah 8:7 - Yea, the stork in the heaven knoweth her appointed times; and the turtle and the crane and the swallow observe the time of their coming; but my people know not the judgment of the LORD."
+																    )));
+
+																wordMap.put("Usury", new KjvEntity("Usury", "interest on money",
+																    List.of(
+																        "Exodus 22:25 - If thou lend money to any of my people that is poor by thee, thou shalt not be to him as an usurer, neither shalt thou lay upon him usury.",
+																        "Leviticus 25:36 - Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee.",
+																        "Ezekiel 18:13 - In thee have they taken gifts to shed blood; thou hast taken usury and increase, and thou hast greedily gained of thy neighbours by extortion, and hast forgotten me, saith the Lord GOD."
+																    )));
+
+																wordMap.put("Vagabond", new KjvEntity("Vagabond", "wanderer",
+																    List.of(
+																        "Genesis 4:12 - When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.",
+																        "Genesis 4:14 - Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth...",
+																        "Acts 19:13 - Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth."
+																    )));
+
+																wordMap.put("Vale", new KjvEntity("Vale", "valley",
+																    List.of(
+																        "Genesis 14:3 - All these were joined together in the vale of Siddim, which is the salt sea.",
+																        "Genesis 14:8 - And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar;) and they joined battle with them in the vale of Siddim;",
+																        "Joshua 10:40 - So Joshua smote all the country of the hills, and of the south, and of the vale, and of the springs, and all their kings: he left none remaining, but utterly destroyed all that breathed, as the LORD God of Israel commanded."
+																    )));
+
+																wordMap.put("Vehemently", new KjvEntity("Vehemently", "intense",
+																    List.of(
+																        "Mark 14:31 - But he spake the more vehemently, If I should die with thee, I will not deny thee in any wise. Likewise also said they all.",
+																        "Luke 23:10 - And the chief priests and scribes stood and vehemently accused him.",
+																		"Luke 6:49 - But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great."
+																    )));
+
+																wordMap.put("Vehement", new KjvEntity("Vehement", "intense",
+																    List.of(
+																        "Jonah 4:8 - And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.",
+																		"Song of Solomon 8:6 - Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which hath a most vehement flame.",
+																		"2 Corinthians 7:11 - For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter."
+																		
+																    )));
+																wordMap.put("Verily", new KjvEntity("Verily", "truly",
+																	    List.of(
+																	        "John 3:3 - Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.",
+																	        "John 5:24 - Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life...",
+																	        "Matthew 5:18 - For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled."
+																	    )));
+
+																	wordMap.put("Vesture", new KjvEntity("Vesture", "clothing",
+																	    List.of(
+																	        "Psalms 22:18 - They part my garments among them, and cast lots upon my vesture.",
+																	        "Hebrews 1:12 - And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.",
+																	        "Psalms 102:26 - They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:"
+																	    )));
+
+																	wordMap.put("Vex", new KjvEntity("Vex", "to trouble",
+																	    List.of(
+																	        "Numbers 25:17 - Vex the Midianites, and smite them:",
+																	        "Job 19:2 - How long will ye vex my soul, and break me in pieces with words?",
+																	        "Leviticus 19:33 - And if a stranger sojourn with thee in your land, ye shall not vex him."
+																	    )));
+
+																	wordMap.put("Victuals", new KjvEntity("Victuals", "food",
+																	    List.of(
+																	        "Genesis 14:11 - And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way.",
+																	        "Joshua 9:11 - Wherefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We are your servants: therefore now make ye a league with us.",
+																	        "Leviticus 25:37 - Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase."
+																	    )));
+
+																	wordMap.put("Virtue", new KjvEntity("Virtue", "moral goodness",
+																	    List.of(
+																	        "Luke 6:19 - And the whole multitude sought to touch him: for there went virtue out of him, and healed them all.",
+																	        "Mark 5:30 - And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes?",
+																	        "2 Peter 1:5 - And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;"
+																	    )));
+
+																	wordMap.put("Want", new KjvEntity("Want", "to be lacking",
+																	    List.of(
+																	        "Psalms 23:1 - The LORD is my shepherd; I shall not want.",
+																	        "Job 31:19 - If I have seen any perish for want of clothing, or any poor without covering;",
+																	        "Psalms 34:9 - O fear the LORD, ye his saints: for there is no want to them that fear him."
+																	    )));
+
+																	wordMap.put("Wanton", new KjvEntity("Wanton", "unruly",
+																	    List.of(
+																	        "1 Timothy 5:11 - But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;",
+																	        "James 5:5 - Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter.",
+																	        "Isaiah 3:16 - Moreover the LORD saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:"
+																	    )));
+
+																	wordMap.put("Warp", new KjvEntity("Warp", "refers to the threads sewn lengthwise in a garment",
+																	    List.of(
+																	        "Leviticus 13:48 - Whether it be in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;",
+																	        "Leviticus 13:53 - And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;",
+																	        "Leviticus 13:59 - This is the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean."
+																	    )));
+
+																	wordMap.put("Woof", new KjvEntity("Woof", "refers to the threads sewn perpendicular to the warp",
+																	    List.of(
+																	        "Leviticus 13:48 - Whether it be in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;",
+																	        "Leviticus 13:51 - And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, or in any work that is made of skin; the plague is a fretting leprosy; it is unclean.",
+																	        "Leviticus 13:59 - This is the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean."
+																	    )));
+
+																	wordMap.put("Wax", new KjvEntity("Wax", "grow or become",
+																	    List.of(
+																	        "Psalms 22:14 - I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.",
+																	        "Psalms 68:2 - As smoke is driven away, so drive them away: as wax melteth before the fire, so let the wicked perish at the presence of God.",
+																	        "Psalms 97:5 - The hills melted like wax at the presence of the LORD, at the presence of the Lord of the whole earth."
+																	    )));
+
+																	wordMap.put("Waxed", new KjvEntity("Waxed", "grow or become",
+																	    List.of(
+																	        "Genesis 26:13 - And the man waxed great, and went forward, and grew until he became very great:",
+																	        "Exodus 1:20 - Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty.",
+																	        "Luke 2:40 - And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him."
+																	    )));
+
+																	wordMap.put("Waxen", new KjvEntity("Waxen", "grow or become",
+																	    List.of(
+																	        "Deuteronomy 29:5 - And I have led you forty years in the wilderness: your clothes are not waxen old upon you, and thy shoe is not waxen old upon thy foot.",
+																	        "Jeremiah 5:27 - As a cage is full of birds, so are their houses full of deceit: therefore they are become great, and waxen rich.",
+																	        "Joshua 17:13 - Yet it came to pass, when the children of Israel were waxen strong, that they put the Canaanites to tribute; but did not utterly drive them out."
+																	    )));
+
+																	wordMap.put("Waxeth", new KjvEntity("Waxeth", "grow or become",
+																	    List.of(
+																	        "Psalms 6:7 - Mine eye is consumed because of grief; it waxeth old because of all mine enemies.",
+																	        "Hebrews 8:13 - In that he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away."
+																			)));
+																			
+																	wordMap.put("Wayfaring", new KjvEntity("Wayfaring", "a traveler or wanderer",
+																	    List.of(
+																	        "Judges 19:17 - And when he had lifted up his eyes, he saw a wayfaring man in the street of the city: and the old man said, Whither goest thou? and whence comest thou?",
+																	        "Jeremiah 9:2 - Oh that I had in the wilderness a lodging place of wayfaring men; that I might leave my people, and go from them! for they be all adulterers, an assembly of treacherous men.",
+																	        "Jeremiah 14:8 - O the hope of Israel, the saviour thereof in time of trouble, why shouldest thou be as a stranger in the land, and as a wayfaring man that turneth aside to tarry for a night?"
+																	    )));
+
+																	wordMap.put("Whence", new KjvEntity("Whence", "from what place",
+																	    List.of(
+																	        "John 3:8 - The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.",
+																	        "John 7:27 - Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is.",
+																	        "Hebrews 11:19 - Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure."
+																	    )));
+
+																	wordMap.put("Whet", new KjvEntity("Whet", "to sharpen",
+																	    List.of(
+																	        "Deuteronomy 32:41 - If I whet my glittering sword, and mine hand take hold on judgment; I will render vengeance to mine enemies, and will reward them that hate me.",
+																	        "Psalms 7:12 - If he turn not, he will whet his sword; he hath bent his bow, and made it ready.",
+																	        "Psalms 64:3 - Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:"
+																	    )));
+																	wordMap.put("Whit", new KjvEntity("Whit", "the least amount",
+																	    List.of(
+																	        "John 7:23 - If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?",
+																	        "2 Corinthians 11:5 - For I suppose I was not a whit behind the very chiefest apostles.",
+																	        "John 13:10 - Jesus saith to him, He that is washed needeth not save to wash his feet, but is clean every whit: and ye are clean, but not all."
+																	    )));
+
+																	wordMap.put("Winebibber", new KjvEntity("Winebibber", "one who drinks wine",
+																	    List.of(
+																	        "Matthew 11:19 - The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children.",
+																	        "Luke 7:34 - The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!"
+																	    )));
+
+																	wordMap.put("Wit", new KjvEntity("Wit", "to know",
+																	    List.of(
+																	        "2 Corinthians 8:1 - Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;",
+																	        "Exodus 2:4 - And his sister stood afar off, to wit what would be done to him.",
+																	        "Genesis 24:21 - And the man wondering at her held his peace, to wit whether the LORD had made his journey prosperous or not."
+																	    )));
+
+																	wordMap.put("Wot", new KjvEntity("Wot", "to know",
+																	    List.of(
+																	        "Genesis 21:26 - And Abimelech said, I wot not who hath done this thing...",
+																	        "Exodus 32:1 - ...for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.",
+																	        "Acts 3:17 - And now, brethren, I wot that through ignorance ye did it, as did also your rulers."
+																	    )));
+
+																	wordMap.put("Wotteth", new KjvEntity("Wotteth", "to know",
+																	    List.of(
+																	        "Genesis 39:8 - But he refused, and said unto his master's wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;"
+																	    )));
+
+																	wordMap.put("Wist", new KjvEntity("Wist", "to know",
+																	    List.of(
+																	        "Luke 2:49 - And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father's business?",
+																	        "Exodus 34:29 - And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses' hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him.",
+																	        "Mark 9:6 - For he wist not what to say; for they were sore afraid."
+																	    )));
+
+																	wordMap.put("Withs", new KjvEntity("Withs", "a flexible twig used for binding",
+																	    List.of(
+																	        "Judges 16:7 - And Samson said unto her, If they bind me with seven green withs that were never dried, then shall I be weak, and be as another man.",
+																	        "Judges 16:8 - Then the lords of the Philistines brought up to her seven green withs which had not been dried, and she bound him with them.",
+																	        "Judges 16:9 - And he brake the withs, as a thread of tow is broken when it toucheth the fire."
+																	    )));
+
+																	wordMap.put("Wont", new KjvEntity("Wont", "accustomed to",
+																	    List.of(
+																	        "Luke 22:39 - And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him.",
+																	        "Acts 16:13 - And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake unto the women which resorted thither.",
+																	        "Matthew 27:15 - Now at that feast the governor was wont to release unto the people a prisoner, whom they would."
+																	    )));
+
+																	wordMap.put("Wroth", new KjvEntity("Wroth", "angry",
+																	    List.of(
+																	        "Genesis 4:5 - But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.",
+																	        "Psalms 78:59 - When God heard this, he was wroth, and greatly abhorred Israel:",
+																	        "Matthew 18:34 - And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him."
+																	    )));
 	}
 	
     	public List<String> getAllWords() 
